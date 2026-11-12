@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Local database
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
